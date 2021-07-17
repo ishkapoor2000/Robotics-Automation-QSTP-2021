@@ -3,7 +3,11 @@ I will be using this repository to document and store all future work in this co
  ## Week 1
  ### File Structure
  ```
- .
+.
+|   .gitignore
+|   LICENSE
+|   README.md
++---WEEK1
 |   main.py
 |   Unicycle_0.5_1_by_Ish.PNG
 |   Unicycle_0.5_1.PNG
@@ -11,4 +15,5 @@ I will be using this repository to document and store all future work in this co
 |   Unicycle_1_0.5.PNG
 |   Unicycle_1_0.5_by_Ish.PNG
 |   Unicycle_5_4.PNG
++---WEEK2
 ```
